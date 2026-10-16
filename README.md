@@ -17,6 +17,6 @@
 5. Select **File → Download → Download .ipynb**. Rename it to `STUDENTID_NAME_HW1.ipynb` (replace `STUDENT_ID` with your student ID, as well as `NAME`).
 6. Zip your notebook, upload the `STUDENTID_NAME_HW1.zip` to **moodle before the deadline**.
 
-**Submit:** one completed `.ipynb` file containing your code and executed cell outputs. Please do **not** submit just a Colab/Google Drive sharing URL or push your solution to the public starter repository.
+**Submit:** one completed `.ipynb` file in `.zip` containing your code and executed cell outputs. Please do **not** submit just a Colab/Google Drive sharing URL or push your solution to the public starter repository.
 
 If the badge does not work, download `homework_optimizers_regularization.ipynb` from this GitHub repository and use **File → Upload notebook** in [Google Colab](https://colab.research.google.com/).
